@@ -19,5 +19,5 @@
                          "6) See the attached logs for more information (Attach more related to the bug..IF any)",
                          "7) Also see the attached screenshot of the error page"
                          ],
-  "Expected Result": "On clicking the SAVE button, you should be prompted to a successful message: New User has been created successfully”
+  "Expected result": "On clicking the SAVE button, you should be prompted to a successful message: new user has been created successfully"
 } 
