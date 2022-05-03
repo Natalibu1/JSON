@@ -2,4 +2,7 @@
  "basic theory": ["bug reports", "testing methods", "SDLC", "STLC"],
  "testing API": ["Postman", "JS", "autotests"],
  "terminal Linux": ["copying files", "creating files", "moving files"]
+ "sniffing HTTP traffic": ["Charles", "Fiddler"],
+ "DevTools web browsers": ["Google Chrome", "FireFox"],
+ "mobile testing": ["Android Studio", "ADB"] 
 }
